@@ -18,14 +18,15 @@ nav li a {
     list-style:none;
     text-align: left;
     text-decoration: none;
+    margin-left:4%;
 }
 
 ul
 {
     list-style-type:none;
+    margin-left: 4%;
 }
 
 #container {
 	max-width: 15000px;
-	margin-left: 3%;
 }
