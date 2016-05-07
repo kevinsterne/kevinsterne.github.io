@@ -32,7 +32,8 @@ ul
 }
 
 .homemain {
+	width: 30%;
 	float: right;
-	margin-right: 10%;
+	margin-right: 5%;
 	padding: 10px;
 }
