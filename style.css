@@ -27,8 +27,8 @@ ul
 }
 
 #container {
+	margin-top: 4%;
 	float: left;
-	max-width: 15000px;
 }
 
 .homemain, .aboutmain, .presentationsmain, .publicationsmain, .basicipsummain {
