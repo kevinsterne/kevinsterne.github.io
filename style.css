@@ -15,7 +15,6 @@ nav li a {
 
 .cf:before,
 .cf:after {
-    content:"";
     display:table;
 }
 .cf:after {
