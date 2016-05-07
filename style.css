@@ -6,6 +6,11 @@ html {
 	font-family: Corbel;
 }
 
+header {
+	font-size:36px;
+	color: black;
+}
+
 nav li a {
 	display: block;
     list-style:none;
