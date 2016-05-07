@@ -7,7 +7,7 @@ html {
 }
 
 nav li a {
-	display:inline-block;
+	display: block;
     list-style:none;
     text-align: left;
     text-decoration: none;
