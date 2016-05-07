@@ -10,12 +10,11 @@ header {
 	font-size:32px;
 	font-weight: thick;
 	color: black;
-	margin-top: 50px;
-	margin-left: 50px;
+	margin-top: 2%px;
+	margin-left: 2%px;
 }
 
 nav li a {
-	display: block;
     list-style:none;
     text-align: left;
     text-decoration: none;
@@ -27,7 +26,6 @@ ul
 }
 
 #container {
-background-color: white;
 	max-width: 15000px;
-	margin: 0 auto;
+	margin-left: 3%;
 }
