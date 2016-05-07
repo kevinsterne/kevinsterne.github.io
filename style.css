@@ -13,6 +13,19 @@ nav li a {
     text-decoration: none;
 }
 
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {
+    clear:both;
+}
+/*For IE 6/7 (trigger has layout) */
+.cf {
+    zoom:1;
+}
+
 #container {
 background-color: white;
 	max-width: 15000px;
