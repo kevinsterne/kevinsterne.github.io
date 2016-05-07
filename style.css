@@ -13,16 +13,9 @@ nav li a {
     text-decoration: none;
 }
 
-.cf:before,
-.cf:after {
-    display:table;
-}
-.cf:after {
-    clear:both;
-}
-/*For IE 6/7 (trigger has layout) */
-.cf {
-    zoom:1;
+ul
+{
+    list-style-type:none;
 }
 
 #container {
