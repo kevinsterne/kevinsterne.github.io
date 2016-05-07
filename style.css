@@ -34,6 +34,5 @@ ul
 .homemain, .aboutmain, .presentationsmain, .publicationsmain, .basicipsummain {
 	width: 50%;
 	float: left;
-	margin-top: 2%;
 	margin-left: 11%;
 }
