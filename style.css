@@ -6,9 +6,10 @@ html {
 	font-family: Corbel;
 }
 
-nav{
+nav li a {
     list-style:none;
-    text-align:left;
+    text-align: left;
+    text-decoration: none;
 }
 
 #container {
