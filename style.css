@@ -31,7 +31,7 @@ ul
 	max-width: 15000px;
 }
 
-.homemain .aboutmain .presentationsmain .publicationsmain .basicipsummain {
+.homemain, .aboutmain, .presentationsmain, .publicationsmain, .basicipsummain {
 	width: 50%;
 	float: left;
 	margin-top:4;
