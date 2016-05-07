@@ -27,5 +27,6 @@ ul
 }
 
 #container {
+	float: left;
 	max-width: 15000px;
 }
