@@ -30,3 +30,9 @@ ul
 	float: left;
 	max-width: 15000px;
 }
+
+.homemain {
+	float: right;
+	margin-right: 30%;
+	padding: 10px;
+}
