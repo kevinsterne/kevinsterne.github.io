@@ -1,1 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
 
+html {
+	background-color: white;
+	font-family: Corbel;
+}
+
+nav{
+    list-style:none;
+    text-align:left;
+}
+
+#container {
+background-color: white;
+	max-width: 15000px;
+	margin: 0 auto;
+}
