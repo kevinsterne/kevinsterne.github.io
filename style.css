@@ -10,21 +10,21 @@ header {
 	font-size:32px;
 	font-weight: thick;
 	color: black;
-	margin-top: 2%px;
-	margin-left: 2%px;
+	margin-top: 1%;
+	margin-left: 1%;
 }
 
 nav li a {
     list-style:none;
     text-align: left;
     text-decoration: none;
-    margin-left:4%;
+    margin-left:2%;
 }
 
 ul
 {
     list-style-type:none;
-    margin-left: 4%;
+    margin-left: 2%;
 }
 
 #container {
