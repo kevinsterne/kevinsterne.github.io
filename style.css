@@ -31,7 +31,34 @@ ul
 	max-width: 15000px;
 }
 
-.homemain .aboutmain .presentationsmain .publicationsmain .basicipsummain {
+.homemain {
+	width: 50%;
+	float: left;
+	margin-left: 10%;
+	padding: 10px;
+}
+.aboutmain {
+	width: 50%;
+	float: left;
+	margin-left: 10%;
+	padding: 10px;
+}
+
+.presentationsmain {
+	width: 50%;
+	float: left;
+	margin-left: 10%;
+	padding: 10px;
+}
+
+.publicationsmain {
+	width: 50%;
+	float: left;
+	margin-left: 10%;
+	padding: 10px;
+}
+
+.basicipsummain {
 	width: 50%;
 	float: left;
 	margin-left: 10%;
