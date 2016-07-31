@@ -32,7 +32,7 @@ ul
 }
 
 .homemain, .aboutmain, .presentationsmain, .publicationsmain, .basicipsummain {
-	width: 50%;
+	width: 100px;
 	float: left;
 	padding: 20px;
 	margin-top: 0;
