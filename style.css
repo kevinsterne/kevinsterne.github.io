@@ -48,10 +48,13 @@ ul
 	float: left;
 	width: 100%;
 	height: auto;
-	margin-left:20%;
+	margin-left:11%;
+	padding:20px;
 
 }
 figcaption{
-	margin:0;
+	float: left;
+	padding: 2px;
+	
 	
 }
