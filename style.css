@@ -33,7 +33,7 @@ ul li
 	float: left;
 }
 
-.homemain, .aboutmain, .presentationsmain  {
+.homemain, .aboutmain, .publicationsmain {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -69,12 +69,13 @@ figcaption{
 }
 
 
-.publicationsmain {
-	width: 50%;
+
+.presentationsmain {
+width: 50%;
 	float: left;
 	padding: 20px;
 	margin-top: 0;
-	margin-left: 30%;
+	margin-left: 25%;
 	text-align: justify;
 }
 
@@ -91,7 +92,7 @@ figcaption{
 	float: left;
 	padding: 20px;
 	margin-top: 0;
-	margin-left: 30%;
+	margin-left: 25%;
 	text-align: justify;
 }
 
