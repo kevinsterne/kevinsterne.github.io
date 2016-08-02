@@ -42,6 +42,10 @@ ul
 
 .aboutp1, .aboutp2, .aboutp3 {
 	padding: 5px;
+	float: left;
+	width:50%;
+	margin-left:20%;
+
 }
 
 .veggieprint  {
@@ -52,6 +56,7 @@ ul
 }
 figcaption{
 	padding:5px;
+	
 
 }
 
