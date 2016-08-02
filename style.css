@@ -31,7 +31,7 @@ ul
 	float: left;
 }
 
-.homemain, .aboutmain, .presentationsmain, .publicationsmain, .weirdmain {
+#homemain, .aboutmain, .presentationsmain, .publicationsmain, .weirdmain {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -44,7 +44,7 @@ ul
 	padding: 5px;
 }
 
-.veggieprint img {
+#homemain, .veggieprint img {
 	float: left;
 	width: 100%;
 	height: auto;
