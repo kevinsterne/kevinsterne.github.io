@@ -44,7 +44,7 @@ ul
 	padding: 5px;
 }
 
-.homemain, .veggieprint img {
+.veggieprint  {
 	float: left;
 	width: 50%;
 	height: auto;
