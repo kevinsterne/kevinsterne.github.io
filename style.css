@@ -33,7 +33,7 @@ ul li
 	float: left;
 }
 
-.homemain, .aboutmain, .presentationsmain,  .publicationsmain, .weirdmain {
+.homemain, .aboutmain, .presentationsmain,  .publicationsmain {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -75,6 +75,16 @@ figcaption{
 	width:50%;
 	margin-left:20%;
 	padding:10px;
+}
+
+
+.weirdmain {
+	width: 50%;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 20%;
+	text-align: justify;
 }
 
 .weirdmemeself {
