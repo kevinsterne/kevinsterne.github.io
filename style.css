@@ -33,7 +33,7 @@ ul li
 	float: left;
 }
 
-.homemain, .aboutmain, .presentationsmain,  .weirdmain {
+.homemain, .aboutmain, .presentationsmain,  .publicationsmain, .weirdmain {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -70,12 +70,6 @@ figcaption{
 
 
 
-.publicationsmain{
-	padding: 5px;
-	float: left;
-	width:100%;
-	margin-left:50%;
-}
 .seriouspicture  {
 	float: left;
 	width:50%;
