@@ -117,14 +117,14 @@ width: 50%;
 
     width:  200px;
     height: 200px;
-    margin: 2% 500% 5% 5%;
+    margin: 2% 10% 5% 5%;
     overflow:hidden;
   }
   
   .img img {
   	height: auto;
  width: 200px;
- margin: 5%;
+ margin: 2% 10% 5% 5%;
   }
   
 
