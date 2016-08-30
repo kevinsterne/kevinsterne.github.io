@@ -33,7 +33,7 @@ ul li
 	float: left;
 }
 
-.homemain, .aboutmain,  .publicationsmain {
+.homemain, .aboutmain {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -111,9 +111,7 @@ width: 50%;
 	padding:10px;
 }
 
-
-
-  .img {
+.publicationsmain, .img {
  	width: 50%;
 	float: left;
 	padding: 20px;
