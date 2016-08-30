@@ -113,23 +113,12 @@ width: 50%;
 
 
 
-
- 		width: auto;
-	float: left;
-	padding: 20px;
-	margin-top: 0;
-	margin-left: 11%;
-	text-align: justify;
-  }
- 
-
-  .img{
-
+  .img {
  	width: 50%;
 	float: left;
 	padding: 20px;
 	margin-top: 0;
-	margin-left: 11%;
+	margin-left: 25%;
 	text-align: justify;
   }
   
