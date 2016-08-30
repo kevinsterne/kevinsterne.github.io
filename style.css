@@ -33,7 +33,7 @@ ul li
 	float: left;
 }
 
-.homemain, .aboutmain{
+.homemain, .aboutmain,  .publicationsmain {
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -113,7 +113,7 @@ width: 50%;
 
 
 
- .publicationsmain {
+
  		width: auto;
 	float: left;
 	padding: 20px;
