@@ -123,6 +123,15 @@ width: 50%;
 
 
 .featuredmain {
+width: 50%;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 25%;
+	text-align: justify;
+
+
+.featured {
 	display: inline-block;
 	height: auto;
  width: 400px;
