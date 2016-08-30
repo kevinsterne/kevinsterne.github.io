@@ -114,7 +114,7 @@ width: 50%;
 
 
 .img {
-	position: relative;
+
 	float: left;
     width:  200px;
     height: 200px;
@@ -131,7 +131,7 @@ width: 50%;
 
 
 .featured {
-
+	display: inline-block;
 	height: auto;
  width: 200px;
 	margin: 5% 1% 5% 5%;
