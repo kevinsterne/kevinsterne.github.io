@@ -33,7 +33,7 @@ ul li
 	float: left;
 }
 
-.homemain, .aboutmain, .publicationsmain {
+.homemain, .aboutmain{
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -110,6 +110,18 @@ width: 50%;
 	margin-left:20%;
 	padding:10px;
 }
+
+
+
+ .publicationsmain {
+ 		width: auto;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 11%;
+	text-align: justify;
+  }
+ 
 
   .img{
 
