@@ -112,12 +112,30 @@ width: 50%;
 }
 
 
-.featuredpublication  {
+
+.img {
+	position: relative;
 	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
+    width:  200px;
+    height: 200px;
+    margin: 2% auto auto 5%;
+    overflow:hidden;
+  }
+  
+  .img img {
+  	height: auto;
+ width: 200px;
+ margin: 5%;
+  }
+  
+
+
+.featuredpublication {
+	display: inline-block;
+	margin: 5% 1% 5% 5%;
+	padding: 20px 5px 20px 20px;
 }
+
 
   .img {
   	height: auto;
