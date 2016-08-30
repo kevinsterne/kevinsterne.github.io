@@ -123,13 +123,22 @@ width: 50%;
 
 
 .featuredmain {
-width: 50%;
+	width: 50%;
 	float: left;
 	padding: 20px;
 	margin-top: 0;
 	margin-left: 11%;
 	text-align: justify;
 
+}
+
+.featured{
+	width: 50%;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 11%;
+	text-align: justify;
 }
 
 
