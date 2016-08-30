@@ -116,14 +116,14 @@ width: 50%;
  	width: 50%;
 	float: left;
 	padding: 20px;
-	margin-top: 30;
+	margin-top: 0;
 	margin-left: 11%;
 	text-align: justify;
   }
   
 
 .featuredmain {
-
+	display: inline-block;
 	height: auto;
  width: 400px;
 	margin: 100px 150px 100px 80px;
