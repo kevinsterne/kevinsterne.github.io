@@ -115,10 +115,14 @@ width: 50%;
 
 
   .img img {
-  	height: auto;
- width: 200px;
- margin: 2% 10% 5% 5%;
- 	padding: auto auto auto auto;
+
+ 	
+ 		width: 50%;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 11%;
+	text-align: justify;
   }
   
 
