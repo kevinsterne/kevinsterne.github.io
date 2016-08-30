@@ -119,3 +119,8 @@ width: 50%;
 	padding:10px;
 }
 
+  .img {
+  	height: auto;
+ width: 200px;
+ margin: 5%;
+  }
