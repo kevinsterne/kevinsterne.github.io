@@ -127,12 +127,12 @@ width: 50%;
   
 
 
-.featuredmain; .img {
+.featuredmain; img {
 	width: 75%;
 	float: left;
 	padding: 10px;
 	margin-top: 10;
-
+	margin-left: 5%;
 	text-align: justify;
 
 }
