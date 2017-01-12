@@ -42,7 +42,7 @@ ul li
 	text-align: justify;
 }
 
-.aboutp1, .aboutp2, .aboutp3 {
+.aboutp1, .aboutp2, .aboutp3 .hireme{
 	padding: 5px;
 	float: left;
 	width:100%;
