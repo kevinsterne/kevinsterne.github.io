@@ -42,12 +42,20 @@ ul li
 	text-align: justify;
 }
 
-.aboutp1, .aboutp2, .aboutp3 .hireme{
+.aboutp1, .aboutp2, .aboutp3 {
 	padding: 5px;
 	float: left;
 	width:100%;
 	margin-left:20%;
 
+
+}
+
+.hireme {
+padding: 5px;
+	float: left;
+	width:100%;
+	margin-left:20%;
 }
 
 .veggieprint  {
