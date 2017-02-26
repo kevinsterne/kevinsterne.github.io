@@ -6,32 +6,7 @@ html {
 	font-family: helvetica;
 }
 
-header {
-	text-decoration: none;
-	font-size:24px;
-	font-weight: thick;
-	color: red;
-	margin-top: 4%;
-	margin-left: 300%;
-}
 
-nav li a {
-    list-style:none;
-    text-align: left;
-    text-decoration: none;
-}
-
-ul li
-{
-    list-style-type:none;
-    margin-left: 2%;
-    margin-bottom: 2%;
-    
-}
-
-#container {
-	float: center;
-}
 
 .homemain, {
 	width: 50%;
@@ -77,13 +52,7 @@ width: 50%;
 	margin-top: 0;
 	margin-left: 25%;
 	text-align: justify;
-}
-.catcouch {
-	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
-}
+
 
 
 
