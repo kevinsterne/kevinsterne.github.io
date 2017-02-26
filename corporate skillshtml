@@ -11,19 +11,17 @@
 <nav class="cf">
 <ul class="topMenu">
 
-<li><a href="about.html">About</a></li>
-<li><a href="publications.html">Publications</a></li>
-<li><a href="presentations.html">Presentations</a></li>
-<li><a href="hireme.html" class="current">Hire Me</a></li>
-<li><a href="Misc.html">Misc.</a></li>
+<li><a href="journalism.html">journalism</a></li>
+<li><a href="creative.html">Presentations</a></li>
+<li><a href="corporateskills.html" class="current">corporate skills</a></li>
 </ul>
 </nav>
 </div>
-<div class=hiremetext>
+
 <p>
   coming
   </p>
-  </div>
+
   
   
 <script>
