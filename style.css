@@ -40,88 +40,10 @@ ul li
 	margin-top: 0;
 	margin-left: 11%;
 	text-align: justify;
-}
 
-.aboutp1, .aboutp2, .aboutp3 {
-	padding: 5px;
-	float: left;
-	width:100%;
-	margin-left:20%;
-
-
-}
-
-.hiremetext {
-padding: 5px;
-	float: left;
-	width:100%;
-	margin-left:20%;
-}
-
-.veggieprint  {
-	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
-}
-figcaption{
-	padding:5px;
 	
-}
-
-
-
-.smilepicture  {
-	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
-}
-
-
-
-.presentationsmain {
-width: 50%;
-	float: left;
-	padding: 20px;
-	margin-top: 0;
-	margin-left: 25%;
-	text-align: justify;
-}
-
-.seriouspicture  {
-	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
-}
-
-
-.miscmain {
-	width: 50%;
-	float: left;
-	padding: 20px;
-	margin-top: 0;
-	margin-left: 25%;
-	text-align: justify;
-}
-
-.weirdmemeself {
-	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
-}
-
-
-.catcouch {
-	float: left;
-	width:50%;
-	margin-left:20%;
-	padding:10px;
-}
-
-.publicationsmain, .img {
+	
+.journalismmain, .img {
  	width: 50%;
 	float: left;
 	padding: 20px;
@@ -138,6 +60,33 @@ width: 50%;
 	padding:5px;
 
 }
+
+.corporateskillsmain {
+padding: 5px;
+	float: left;
+	width:100%;
+	margin-left:20%;
+}
+
+
+
+.creativemain {
+width: 50%;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 25%;
+	text-align: justify;
+}
+.catcouch {
+	float: left;
+	width:50%;
+	margin-left:20%;
+	padding:10px;
+}
+
+
+
 
 
 
