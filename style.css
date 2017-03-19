@@ -8,24 +8,13 @@ html {
 }
 
 
-.homemain, {
+.homemain {
 	width: 50%;
 	float: left;
-	padding: 20px;
+	padding: 40px;
 	margin-top: 0;
 	margin-left: 50%;
 	text-align: justify
-}
-
-.journalismmain, .img {
- 	width: 50%;
-	float: left;
-	padding: 20px;
-	margin-top: 0;
-	margin-left: 15%;
-	text-align: justify;
-  }
-  
 
 
 .featuredmain {
