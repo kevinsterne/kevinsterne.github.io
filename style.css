@@ -6,7 +6,9 @@ html {
 	font-family: helvetica;
 }
 
-
+a {
+    text-decoration: none;
+}
 
 .homemain, {
 	width: 50%;
