@@ -4,12 +4,7 @@
 html {
 	background-color: white;
 	font-family: helvetica;
-}
 
-	/* mouse over link */
-a:hover {
-    color: hotpink;
-}
 
 .homemain, {
 
@@ -20,7 +15,6 @@ a:hover {
 	margin-top: 0;
 	margin-left: 50%;
 	text-align: justify;
-    text-decoration: none;
 
 }
 	
