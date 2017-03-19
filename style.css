@@ -15,10 +15,12 @@ html {
 	margin-top: 0;
 	margin-left: 50%;
 	text-align: justify
-	text-decoration: none;	
+	
 }
 
-	
+header{
+text-decoration: none;	
+}
 	
 .journalismmain, .img {
  	width: 50%;
