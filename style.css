@@ -14,10 +14,12 @@ html {
 	padding: 20px;
 	margin-top: 0;
 	margin-left: 50%;
-	text-align: justify;
+	text-align: justify
 
 }
-	
+	a:link {
+    text-decoration: none;
+}
 
 .journalismmain, .img {
  	width: 50%;
