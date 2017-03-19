@@ -8,13 +8,6 @@ html {
 
 
 .homemain, {
-	
-	body 
-    color: red;
-
-
-h1 
-    color: black;
 	width: 50%;
 	float: left;
 	padding: 20px;
@@ -25,7 +18,15 @@ h1
 
 }
 	
-	
+{
+	body 
+    color: red;
+}
+{
+h1 
+  color: black;
+}
+
 .journalismmain, .img {
  	width: 50%;
 	float: left;
