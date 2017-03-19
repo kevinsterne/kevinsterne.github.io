@@ -8,21 +8,21 @@ html {
 }
 
 
-/* unvisited link */
-a:link {
-    color: black;
-
-a:link {
-    text-decoration: none;
-}
-
 .homemain, {
 	width: 50%;
 	float: left;
 	padding: 20px;
 	margin-top: 0;
 	margin-left: 50%;
-	text-align: justify;
+	text-align: justify
+		
+a:link 
+    color: black;
+
+a:link 
+    text-decoration: none;
+
+	}
 
 	
 	
