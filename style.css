@@ -6,8 +6,13 @@ html {
 	font-family: helvetica;
 }
 
+	/* mouse over link */
+a:hover {
+    color: hotpink;
+}
 
 .homemain, {
+
 	color: black;
 	width: 50%;
 	float: left;
