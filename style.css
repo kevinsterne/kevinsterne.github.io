@@ -4,9 +4,10 @@
 html {
 	background-color: white;
 	font-family: helvetica;
+	color: black; 
 }
 
-hover { color: #FFF; }
+
 
 .homemain, {
 	width: 50%;
