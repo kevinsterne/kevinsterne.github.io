@@ -37,6 +37,16 @@ nav{
 	
 }
 
+nav li{
+	display: inline;
+}
+
+nav a{
+	background-color: white;
+	display: inline-block;
+	padding: 5x;
+}
+
 ul, menu, dir {
     display: block;
     list-style-type: disc;
