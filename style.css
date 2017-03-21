@@ -6,12 +6,6 @@ html {
 	font-family: futura, helvetica, avant garde;
 }
 
-container {
-	background-color: white;
-	max-width: 15000px;
-	margin: 0 auto;
-}
-
 header {
 	color: 696969;
 	font-size: 50px;
@@ -20,14 +14,12 @@ header {
 	font-family: futura, helvetica, avant garde;
 }
 
-.homemain {
-	width: 50%;
-	float: left;
-	padding: 20px;
-	margin-top: 0;
-	margin-left: 25%;
-	text-align: justify;
-	}
+container {
+	background-color: white;
+	max-width: 15000px;
+	margin: 0 auto;
+}
+
 
 nav{
     list-style:none;
@@ -47,6 +39,43 @@ nav a{
 	padding: 5x;
 }
 
+li{
+	position: relative;
+}
+
+nav li a {	
+	text-align:center;
+    	line-height: 2em;
+ 	padding: 0 2.6em;
+	text-decoration: none;
+	font-family: avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color:#0b0638;
+}
+
+
+li a:link {
+	color: #0b0638;
+}
+
+li a:hover, .topMenu > li:hover > a {
+	background-color: white;
+color: #E94f47;
+}
+
+.current, a:hover.current, .topMenu li:hover a.current {
+background-color:white;
+color: #0b0638;
+cursor: default;
+}
+.homemain {
+	width: 50%;
+	float: left;
+	padding: 20px;
+	margin-top: 0;
+	margin-left: 25%;
+	text-align: justify;
+	}
 ul, menu, dir {
     display: block;
     list-style-type: disc;
@@ -64,20 +93,8 @@ ul, menu, dir {
 
 }
 
-nav li a {
-	
-	text-align:center;
-    line-height: 2em;
- 	padding: 0 2.6em;
-	text-decoration: none;
-	font-family: avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 18px;
-	color:#0b0638;
-}
 
-li a:link {
-	color: #0b0638;
-}
+
 .corporateskillsmain {
 padding: 5px;
 	float: left;
@@ -96,16 +113,7 @@ width: 600%;
 	text-align: justify;
 	}
 
-li a:hover, .topMenu > li:hover > a {
-	background-color: white;
-color: #E94f47;
-}
 
-.current, a:hover.current, .topMenu li:hover a.current {
-background-color:white;
-color: #0b0638;
-cursor: default;
-}
 
 
 
