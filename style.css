@@ -3,7 +3,7 @@
 
 html {
 	background-color: white;
-	font-family: futura, helvetica, avant garde;
+	font-family: Arial;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 	font-size: 50px;
 	margin-left: 5%;
 	text-align: left;
-	font-family: futura, helvetica, avant garde;
+	font-family: Arial;
 }
 
 container {
@@ -48,7 +48,7 @@ nav li a {
     	line-height: 2em;
  	padding: 0 2.6em;
 	text-decoration: none;
-	font-family: avenir, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: avenir, Arial, sans-serif;
 	font-size: 18px;
 	color:#0b0638;
 }
@@ -56,6 +56,11 @@ nav li a {
 
 li a:link {
 	color: #0b0638;
+}
+
+a:visited {
+	color: black;
+	text-decoration: none;
 }
 
 ul li { padding: 5px 0px; }
